@@ -1,4 +1,4 @@
-# Project Pixel Art 🛹
+# Project Pixel Art 🖌️
 
 <p>This project was a bit more challenging, requiring the construction of a pixel board that could be colored. Working on it made me realize that the applicability of JavaScript or programming in general knows no bounds, and that we can build amazing and fun things with them. I particularly enjoyed this project..</p>
 
